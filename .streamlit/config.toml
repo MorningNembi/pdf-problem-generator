@@ -4,7 +4,7 @@ base = "light"
 
 primaryColor = "#027373"
 
-backgroundColor = "F2E7DC"
+# backgroundColor = "F2E7DC"
 
 secondaryBackgroundColor = "#A9D9D0"
 
